@@ -1,1 +1,2 @@
-Hello, this is first practice on git.
+Hello, this is first practice on git. 
+Changing here to see git pull. 
